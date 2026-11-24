@@ -1,4 +1,4 @@
-# scriptseen-com
+# ScriptSeen
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,137 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-scriptseen-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://scriptseen.com/
+ScriptSeen provides AI‑generated short‑form video scripts for platforms like TikTok, Reels, and Shorts. Users input a brief, and the service creates a natural‑sounding script with teleprompter timing, allowing creators to rehearse and produce camera‑ready content. Free daily scripts are available, with a Pro subscription for higher limits.
+
+**Areas:** AI · Video · Script · CreatorTools · SaaS
+
+## ScriptSeen on APIs.io
+
+Everything profiled for ScriptSeen is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scriptseen-com/](https://apis.io/providers/scriptseen-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [ScriptSeen Account API](https://apis.io/apis/scriptseen-com/scriptseen-com-account-api/) — The Account API from ScriptSeen — 1 operation(s) for account.
+- [ScriptSeen Agent API](https://apis.io/apis/scriptseen-com/scriptseen-com-agent-api/) — The Agent API from ScriptSeen — 9 operation(s) for agent.
+- [ScriptSeen Audio API](https://apis.io/apis/scriptseen-com/scriptseen-com-audio-api/) — The Audio API from ScriptSeen — 1 operation(s) for audio.
+- [ScriptSeen Behavior API](https://apis.io/apis/scriptseen-com/scriptseen-com-behavior-api/) — The Behavior API from ScriptSeen — 1 operation(s) for behavior.
+- [ScriptSeen Billing API](https://apis.io/apis/scriptseen-com/scriptseen-com-billing-api/) — The Billing API from ScriptSeen — 5 operation(s) for billing.
+- [ScriptSeen Chat Assets API](https://apis.io/apis/scriptseen-com/scriptseen-com-chat-assets-api/) — The Chat Assets API from ScriptSeen — 1 operation(s) for chat assets.
+- [ScriptSeen Config API](https://apis.io/apis/scriptseen-com/scriptseen-com-config-api/) — The Config API from ScriptSeen — 1 operation(s) for config.
+- [ScriptSeen Health API](https://apis.io/apis/scriptseen-com/scriptseen-com-health-api/) — The Health API from ScriptSeen — 1 operation(s) for health.
+- [ScriptSeen Healthz API](https://apis.io/apis/scriptseen-com/scriptseen-com-healthz-api/) — The Healthz API from ScriptSeen — 1 operation(s) for healthz.
+- [ScriptSeen Library API](https://apis.io/apis/scriptseen-com/scriptseen-com-library-api/) — The Library API from ScriptSeen — 2 operation(s) for library.
+- [ScriptSeen OAuth API](https://apis.io/apis/scriptseen-com/scriptseen-com-oauth-api/) — The Oauth API from ScriptSeen — 6 operation(s) for oauth.
+- [ScriptSeen Practice API](https://apis.io/apis/scriptseen-com/scriptseen-com-practice-api/) — The Practice API from ScriptSeen — 1 operation(s) for practice.
+- [ScriptSeen Privacy API](https://apis.io/apis/scriptseen-com/scriptseen-com-privacy-api/) — The Privacy API from ScriptSeen — 1 operation(s) for privacy.
+- [ScriptSeen Realtime API](https://apis.io/apis/scriptseen-com/scriptseen-com-realtime-api/) — The Realtime API from ScriptSeen — 2 operation(s) for realtime.
+- [ScriptSeen Scripts API](https://apis.io/apis/scriptseen-com/scriptseen-com-scripts-api/) — The Scripts API from ScriptSeen — 6 operation(s) for scripts.
+- [ScriptSeen Takes API](https://apis.io/apis/scriptseen-com/scriptseen-com-takes-api/) — The Takes API from ScriptSeen — 1 operation(s) for takes.
+- [ScriptSeen Trends API](https://apis.io/apis/scriptseen-com/scriptseen-com-trends-api/) — The Trends API from ScriptSeen — 1 operation(s) for trends.
+- [ScriptSeen Video Editor API](https://apis.io/apis/scriptseen-com/scriptseen-com-video-editor-api/) — The Video Editor API from ScriptSeen — 1 operation(s) for video editor.
+- [ScriptSeen Video Edits API](https://apis.io/apis/scriptseen-com/scriptseen-com-video-edits-api/) — The Video Edits API from ScriptSeen — 1 operation(s) for video edits.
+- [ScriptSeen .well Known API](https://apis.io/apis/scriptseen-com/scriptseen-com-well-known-api/) — The .well Known API from ScriptSeen — 3 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ScriptSeen Agentic Access](https://apis.io/agentic-access/scriptseen-com/scriptseen-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AgentScriptBody](https://apis.io/schemas/scriptseen-com/scriptseen-com-agent-script-body/)
+- [Body_analyze_v1_takes_analyze_post](https://apis.io/schemas/scriptseen-com/scriptseen-com-body-analyze-v1-takes-analyze-post/)
+- [Body_practice_take_v1_practice_takes_post](https://apis.io/schemas/scriptseen-com/scriptseen-com-body-practice-take-v1-practice-takes-post/)
+- [Brief](https://apis.io/schemas/scriptseen-com/scriptseen-com-brief/)
+- [RealtimeCoachBody](https://apis.io/schemas/scriptseen-com/scriptseen-com-realtime-coach-body/)
+- [RealtimePhaseBody](https://apis.io/schemas/scriptseen-com/scriptseen-com-realtime-phase-body/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Scriptseen Com Context](https://apis.io/jsonld/scriptseen-com/scriptseen-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ScriptSeen API Rules](https://apis.io/rules/scriptseen-com/scriptseen-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ScriptSeen Domain Security](https://apis.io/security/scriptseen-com/scriptseen-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scriptseen.com/)
+- [Support](https://scriptseen.com/support)
+- [Terms of service](https://scriptseen.com/terms)
+- [Privacy policy](https://scriptseen.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.7** — thin · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 49.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 47.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scriptseen-com/](https://apis.io/providers/scriptseen-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ScriptSeen: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scriptseen-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
